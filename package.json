@@ -1,6 +1,6 @@
 {
-  "name": "simplest-password-create",
-  "version": "1.0.1",
+  "name": "simple-password-create",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,6 @@
   "description": "Another simple password generator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shytsko/simplest-password-create.git"
+    "url": "https://github.com/shytsko/simple-password-create.git"
   }
 }

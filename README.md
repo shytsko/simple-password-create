@@ -20,7 +20,7 @@ The library contains one function `createPassword(length, charSetsConfig)`
 ## Example
 
 ```js
-const { createPassword } = require("simplest-password-create");
+const { createPassword } = require("simple-password-create");
 
 console.log(createPassword());
 console.log(createPassword(20, ["digits", "latinLower"]));
