@@ -1,4 +1,4 @@
-# simplest-password-create
+# simple-password-create
 
 A simple library for creating passwords of a given length from a given set of characters.
 
