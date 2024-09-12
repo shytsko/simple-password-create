@@ -5,7 +5,7 @@ A simple library for creating passwords of a given length from a given set of ch
 ## Install
 
 ```commandline
-npm i simplest-password-create
+npm i simple-password-create
 ```
 
 ## Usage
