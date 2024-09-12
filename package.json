@@ -1,0 +1,19 @@
+{
+  "name": "simplest-password-create",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["password", "security"],
+  "author": {
+    "name": "Uladzimir Shytsko",
+    "email": "shytsko.v@gmail.comm"
+  },
+  "license": "ISC",
+  "description": "Another simple password generator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shytsko/simplest-password-create.git"
+  }
+}
